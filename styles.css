@@ -1,0 +1,104 @@
+*{
+  margin: 0;
+}
+html {
+  background-image: url(img/Starry\ night.jpg);
+  background-position: center;
+  background-size: 120%;
+  font-family: sans-serif;
+}
+h1, h2, h3, p {
+    text-align: center;
+    color: rgb( 247, 247, 247);
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    word-wrap: break-word;
+  }
+h1 {
+   font-size: 4.5rem;
+   text-align: left;
+  }
+h2 {
+    font-size: 22px;
+}
+.upper-tab-text1 {
+  margin-top: 0px;
+  margin-bottom: 23px;
+  position: relative;
+  top: 12px;
+}
+.upper-tab-text {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.intro, .intros {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.intro {
+  background: rgb(29, 29, 33);
+  font-size: 16px;
+  margin: 0;
+}
+.intros {
+  background: black;
+  font-size: 16px;
+  height: 80px;
+}
+.title {
+  margin-top: 15.5rem;
+  margin-bottom: 15.5rem;
+  margin-left: 2%;
+  margin-right: 50%;
+}
+.description {
+    margin-top: -10px;
+    text-align: left;
+    font-size: 1.25rem;
+  }
+.DoublyWarpedBlackHole {
+    background: rgb( 247, 247, 247);
+    max-height: 100%;
+  }
+.fig {
+    margin-top: -10px;
+    color: black;
+    font-size: small;
+  }
+.DoublyWarpedBlackHoleimg {
+   max-width: 95%;
+   padding-left: 2.5%;
+   padding-top: 2.5%;
+  }  
+.Black-hole-graphimg {
+  max-width: 95%;
+  padding-left: 2.5%;
+  padding-top: 2.5%;
+  padding-bottom: 4px;
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.researchpaper {
+  text-align: left;
+  margin: 1% 1%;
+  color: black;
+}
+.abstract, .introduction, .blackholes {
+    background: rgb( 247, 247, 247);
+    margin-top: 0px;
+    margin-bottom: -15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.abstract h2, .introduction h2, .blackholes h2{
+  color: black;
+}
+.finalmargin {
+  margin-bottom: 115px;
+}
