@@ -90,6 +90,8 @@ h2 {
   margin: 1% 1%;
   color: black;
   line-height: 1.5;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 .abstract, .introduction, .blackholes, .howareblackholemade, .whatistheeventhorizon, .howdoblackholesradiate, .whatistheinformationparadox, .arethereparalleluniverses, .conclusion, .researchstatus {
     background: rgb( 247, 247, 247);
@@ -98,6 +100,7 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    
 }
 
 .finalmargin {
