@@ -92,6 +92,7 @@ h2 {
   line-height: 1.5;
   padding-left: 10%;
   padding-right: 10%;
+  font-size: 20px;
 }
 .abstract, .introduction, .blackholes, .howareblackholemade, .whatistheeventhorizon, .howdoblackholesradiate, .whatistheinformationparadox, .arethereparalleluniverses, .conclusion, .researchstatus {
     background: rgb( 247, 247, 247);
