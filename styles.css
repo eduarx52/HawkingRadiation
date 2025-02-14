@@ -21,6 +21,7 @@ h1 {
   }
 h2 {
     font-size: 22px;
+    margin-bottom: -20px;
 }
 .upper-tab-text1 {
   margin-top: 0px;
@@ -84,9 +85,10 @@ h2 {
   margin: 0 auto;
 }
 .researchpaper {
-  text-align: left;
+  text-align: center;
   margin: 1% 1%;
   color: black;
+  line-height: 1.5;
 }
 .abstract, .introduction, .blackholes {
     background: rgb( 247, 247, 247);
