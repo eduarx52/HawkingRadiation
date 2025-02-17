@@ -71,6 +71,11 @@ h2 {
     color: black;
     font-size: small;
   }
+.figb {
+  margin-top: -10px;
+  color: white;
+  font-size: small; 
+}
 .DoublyWarpedBlackHoleimg {
    max-width: 95%;
    padding-left: 2.5%;
@@ -84,6 +89,9 @@ h2 {
   width: 50%;
   display: block;
   margin: 0 auto;
+}
+.bbackground {
+  background-color: black;
 }
 .researchpaper {
   text-align: center;
